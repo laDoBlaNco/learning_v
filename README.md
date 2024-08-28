@@ -1,6 +1,6 @@
 # learning_v
 
-My path learning the V programming language. Language is ver interesting to me and although
+My path learning the V programming language. V is very interesting to me and although
 It will probably not be my replacementvsystems language , at least not for now, I do do believe 
 that it will compliment my passion for Go.
 
